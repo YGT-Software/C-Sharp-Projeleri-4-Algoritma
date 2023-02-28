@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\C# Projeleri 4 Algoritma\bin\Debug\net7.0\C# Projeleri 4 Algoritma.exe
+c:\Users\muaze\Desktop\C# Projeleri 4 Algoritma\bin\Debug\net7.0\C# Projeleri 4 Algoritma.deps.json
+c:\Users\muaze\Desktop\C# Projeleri 4 Algoritma\bin\Debug\net7.0\C# Projeleri 4 Algoritma.runtimeconfig.json
+c:\Users\muaze\Desktop\C# Projeleri 4 Algoritma\bin\Debug\net7.0\C# Projeleri 4 Algoritma.dll
+c:\Users\muaze\Desktop\C# Projeleri 4 Algoritma\bin\Debug\net7.0\C# Projeleri 4 Algoritma.pdb
+c:\Users\muaze\Desktop\C# Projeleri 4 Algoritma\obj\Debug\net7.0\C# Projeleri 4 Algoritma.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\C# Projeleri 4 Algoritma\obj\Debug\net7.0\C# Projeleri 4 Algoritma.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\C# Projeleri 4 Algoritma\obj\Debug\net7.0\C# Projeleri 4 Algoritma.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\C# Projeleri 4 Algoritma\obj\Debug\net7.0\C# Projeleri 4 Algoritma.AssemblyInfo.cs
+c:\Users\muaze\Desktop\C# Projeleri 4 Algoritma\obj\Debug\net7.0\C# Projeleri 4 Algoritma.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\C# Projeleri 4 Algoritma\obj\Debug\net7.0\C# Projeleri 4 Algoritma.dll
+c:\Users\muaze\Desktop\C# Projeleri 4 Algoritma\obj\Debug\net7.0\refint\C# Projeleri 4 Algoritma.dll
+c:\Users\muaze\Desktop\C# Projeleri 4 Algoritma\obj\Debug\net7.0\C# Projeleri 4 Algoritma.pdb
+c:\Users\muaze\Desktop\C# Projeleri 4 Algoritma\obj\Debug\net7.0\C# Projeleri 4 Algoritma.genruntimeconfig.cache
+c:\Users\muaze\Desktop\C# Projeleri 4 Algoritma\obj\Debug\net7.0\ref\C# Projeleri 4 Algoritma.dll
